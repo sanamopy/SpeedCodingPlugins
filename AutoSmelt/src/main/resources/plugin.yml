@@ -1,0 +1,8 @@
+name: AutoSmelt
+version: '1.0-SNAPSHOT'
+main: com.sanamo.autoSmelt.AutoSmelt
+api-version: '1.21'
+prefix: AS
+authors: [ KarterSanamo ]
+description: Smelt ores automatically when mined and give the player the smelted item.
+website: logix.host
