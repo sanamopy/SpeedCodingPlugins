@@ -6,3 +6,8 @@ prefix: AS
 authors: [ KarterSanamo ]
 description: Smelt ores automatically when mined and give the player the smelted item.
 website: logix.host
+commands:
+  autosmelt:
+    description: Toggles the automatic smelting of ores when mined
+    usage: /<command>
+    aliases: ["as"]
